@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Alexsander Castro 👋
 
-<!--
-**sanncastro/sanncastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho experiência profissional com suporte técnico, implantação de sistemas, redes e atendimento a clientes. Estou direcionando minha carreira para **desenvolvimento de software**, com foco em C#, ASP.NET Core e bancos de dados.
 
-Here are some ideas to get you started:
+## Tecnologias que venho usando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** C#, ASP.NET Core, APIs REST e Java/Spring Boot
+- **Dados:** PostgreSQL, SQL e Firebird
+- **Web:** HTML, CSS, Bootstrap e PHP
+- **Ferramentas:** Git, GitHub e Visual Studio
+
+## Projetos
+
+Estou preparando repositórios com documentação e exemplos de execução. Entre os trabalhos que desenvolvi estão um mini ERP com API ASP.NET Core e PostgreSQL, integrações entre sistemas e uma aplicação de controle financeiro.
+
+> Os repositórios públicos serão adicionados aqui à medida que a documentação e os dados de exemplo estiverem prontos.
+
+## Sobre mim
+
+Gosto de entender o funcionamento dos sistemas da infraestrutura ao código. Minha experiência em suporte me ajudou a investigar problemas reais, conversar com usuários e transformar necessidades em soluções técnicas.
+
+📫 Você pode entrar em contato comigo pelo próprio GitHub.
