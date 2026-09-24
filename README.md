@@ -1,4 +1,4 @@
-# Olá, eu sou Alexsander Castro 👋
+# Olá, eu sou o Alexsander Castro 👋
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho experiência profissional com suporte técnico, implantação de sistemas, redes e atendimento a clientes. Estou direcionando minha carreira para **desenvolvimento de software**, com foco em C#, ASP.NET Core e bancos de dados.
 
