@@ -11,9 +11,10 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho experiência p
 
 ## Projetos
 
-Estou preparando repositórios com documentação e exemplos de execução. Entre os trabalhos que desenvolvi estão um mini ERP com API ASP.NET Core e PostgreSQL, integrações entre sistemas e uma aplicação de controle financeiro.
+- [BradialWebhook](https://github.com/sanncastro/BradialWebhook): API ASP.NET Core que processa eventos de atendimento e envia notificações pelo Telegram.
+- Mini ERP com API ASP.NET Core e PostgreSQL: documentação em preparação.
 
-> Os repositórios públicos serão adicionados aqui à medida que a documentação e os dados de exemplo estiverem prontos.
+Também desenvolvi integrações entre sistemas e uma aplicação de controle financeiro.
 
 ## Sobre mim
 
